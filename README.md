@@ -1,4 +1,3 @@
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
+$ git log --oneline
+  This file is mandatory in all Holberton School projects
+
