@@ -1,1 +1,2 @@
-git clone https://github.com/Frank-344/holbertonschool-zero_day.git
+#!/bin/bas
+git push origin gh-pages
